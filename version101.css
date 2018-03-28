@@ -1,0 +1,30 @@
+body {
+    background-image: url("atv3.png");
+    line-height: 4.0;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h6 {
+    color: white;
+    padding-top: 6px;
+}
+
+.section2.row{}
+
+.row.col6{}
+
+h1{
+    padding-top: 200px;
+}
+
+h4{}
+
+.button{}
+
+
+
+
+
